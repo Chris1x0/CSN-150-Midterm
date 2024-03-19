@@ -4,6 +4,8 @@ Project name: Sending Messages Through WhatsApp
 
 Purpose: Using a ESP32 to send myself messages to WhatsApp
 
+I picked it, because it looked cool to send a message to myself using the ESP32.
+
 Equipment:
 
 ESP32CAM USB Micro Data Cable Link to documentation followed: https://randomnerdtutorials.com/esp32-send-messages-whatsapp/
